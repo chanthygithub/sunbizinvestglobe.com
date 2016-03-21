@@ -1,0 +1,21 @@
+ <li class="dropdown">
+                      <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false"><i class="glyphicon glyphicon-th"></i> Services <span class="caret"></span></a>
+                      <ul class="dropdown-menu">
+                          <li><a href="<?php echo base_url('ItSolution/getsolution'); ?>">&raquo; IT Solutions</a></li>
+                          <li><a href="<?php echo base_url('Description/getitdesc'); ?>">&raquo; IT Solutions Desc</a></li>
+                          <li><a href="<?php echo base_url('ItSolution/getlicense'); ?>">&raquo; License</a></li>
+                          <li><a href="<?php echo base_url('license'); ?>">&raquo; License Logo</a></li>
+                          <li><a href="<?php echo base_url('software/listsoftware'); ?>">&raquo; Software Dev</a></li>
+                          <li><a href="<?php echo base_url('Description/getsoftwaredesc'); ?>">&raquo; Software Dev Desc</a></li>
+                          <li><a href="<?php echo base_url('trading/tradingList'); ?>">&raquo; Trading</a></li>
+                          <li><a href="<?php echo base_url('training/centerlist'); ?>">&raquo; Test Center</a></li>
+                          <li><a href="<?php echo base_url('training/slidelist'); ?>">&raquo; Training Slide</a></li>
+                          
+                          <li><a href="<?php echo base_url('MobileSite/service') ?>">&raquo; Mobile Site</a></li>
+                          <li><a href="<?php echo base_url('MobileSite/slide') ?>">&raquo; Mobile Slider</a></li>
+                      </ul>
+                  </li>
+=====================================Partner and Customer Pages=====================================================================================================================================
+
+                          <li><a href="<?php echo base_url("partner");?>">&raquo; Partners</a></li>
+                          <li><a href="<?php echo base_url("customer");?>">&raquo; Customers</a></li>
